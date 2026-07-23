@@ -1,0 +1,12 @@
+[
+    {
+        "targets": [
+            "[IP_ADDRESS]:9202"
+        ],
+        "labels": {
+            "services": "nvidia-gpu",
+            "hostname": "nvidia-gpu",
+            "env": "production"
+        }
+    }
+]

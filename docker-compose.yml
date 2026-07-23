@@ -1,5 +1,5 @@
 services:
-  prometheus-nvidiasmi:
+  nvidiasmi-exporter:
     build:
       context: .
       dockerfile: docker/dev/Dockerfile
